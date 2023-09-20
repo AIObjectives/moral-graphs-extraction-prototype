@@ -1,0 +1,52 @@
+[
+  {
+    "edgeType": "leads to",
+    "from": "Education",
+    "to": "Resilience",
+    "quotes": [
+      "[00:08:30] When I went to prison in Illinois, it was different than it is now. Education was very available to you. You had access to all of that and some you even had access to trades.",
+      "[00:09:27] As a victim under the worst circumstances that if I could do it, anybody can do it. I told a guy this morning on the phone, don't just sit there and count the calendar, everything that they have to offer. Get it cause it's free, don't cost you nothing. So make them pay how you make them pay. Get educated."
+    ],
+    "explanation": "The interviewee suggests that his pursuit of education while in prison led to his resilience and ability to adapt and survive in difficult circumstances."
+  },
+  {
+    "edgeType": "requires",
+    "from": "Advocacy",
+    "to": "Understanding",
+    "quotes": [
+      "[00:14:51] I believe that there's no human being. That cannot be redeemed. All of us can be redeemed. Mm-hmm. You know, and if we apply the principles of the scripture, both Bible and Quran, we can save 90% of our people. Cause they, they just wanna reach out.",
+      "[00:15:10] They just want some to know somebody care. Yeah. Yeah. You know, and once somebody understands that you love them, then their response to you is different. They don't respond aggressively. They respond with love."
+    ],
+    "explanation": "The interviewee's advocacy for incarcerated individuals requires a deep understanding of their experiences and needs."
+  },
+  {
+    "edgeType": "supports",
+    "from": "Resourcefulness",
+    "to": "Resilience",
+    "quotes": [
+      "[00:03:17] One of the things that has been challenging for me when I came home was, first of all, a job that was challenging, but Because I have degrees in various areas, I created a job for myself.",
+      "[00:13:15] So I read the manual, that's how I learned how to write use the phone, so those are some of the challenges that we face coming home not being, see, when you don't have access to modern technology, then you like a fish out of the water."
+    ],
+    "explanation": "The interviewee's resourcefulness in creating a job for himself and learning to use modern technology supports his resilience in overcoming challenges."
+  },
+  {
+    "edgeType": "similar to",
+    "from": "Compassion",
+    "to": "Understanding",
+    "quotes": [
+      "[00:15:10] They just want some to know somebody care. Yeah. Yeah. You know, and once somebody understands that you love them, then their response to you is different. They don't respond aggressively. They respond with love.",
+      "[00:16:09] The visit comes and goes. The money comes and goes, but the letter. They'll take those letters and put 'em in an envelope and put 'em in a box. And whenever they release, they take those letters with them. They may leave everything, books, clothes, but they take them letters with 'em. Cause those letters are very valuable to them."
+    ],
+    "explanation": "The interviewee's compassion for incarcerated individuals is similar to his understanding of their experiences and needs."
+  },
+  {
+    "edgeType": "requires",
+    "from": "Justice",
+    "to": "Advocacy",
+    "quotes": [
+      "[00:00:00] It's important that those that have no voice have a voice through us who have been victims of incarceration.",
+      "[00:13:29] When they arrested me and locked me up, I had no idea what was going on. Took me to court, tried me. No witnesses, no evidence, no nothing."
+    ],
+    "explanation": "The interviewee's pursuit of justice for incarcerated individuals requires advocacy on their behalf."
+  }
+]

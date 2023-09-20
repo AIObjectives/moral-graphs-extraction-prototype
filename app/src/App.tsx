@@ -3,6 +3,7 @@ import GraphViz from './Graph';
 import './App.css';
 import graph_deo from './data/graphs_deontological.json'
 import graph_uti from './data/graphs_utilitarian.json'
+import graph_virtue from './data/graphs_virtue.json'
 
 
 const width = 1000
@@ -38,6 +39,7 @@ function App() {
     <div className="App">
       <Column label="Deontological Ethics" graph={graph_deo} />
       <Column label="Utilitarian Ethics" graph={graph_uti} />
+      <Column label="Virtue Ethics" graph={graph_virtue} />
     </div >
   );
 }

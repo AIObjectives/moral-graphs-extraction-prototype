@@ -1,0 +1,47 @@
+[
+  {
+    "edgeType": "requires",
+    "from": "Community Involvement",
+    "to": "Understanding",
+    "quotes": [
+      "[00:08:24] Pretty much what we do is identify injustices and we build campaigns around those injustices."
+    ],
+    "explanation": "Community involvement requires understanding of the issues and injustices in the community."
+  },
+  {
+    "edgeType": "supports",
+    "from": "Education",
+    "to": "Problem-solving",
+    "quotes": [
+      "[00:09:37] In the community. Because you know that critical thinking, I always try to figure out why is that happening?"
+    ],
+    "explanation": "Education supports problem-solving by providing critical thinking skills."
+  },
+  {
+    "edgeType": "leads to",
+    "from": "Compassion",
+    "to": "Advocacy",
+    "quotes": [
+      "[00:11:17] I think they can get all of that and people will build, you know they will want to pour into their development and they can build in on their skills and we can work at something together is what I think."
+    ],
+    "explanation": "Compassion for others can lead to advocacy for their needs and rights."
+  },
+  {
+    "edgeType": "requires",
+    "from": "Active Listening",
+    "to": "Understanding",
+    "quotes": [
+      "[00:07:36] They don't know how to use their voice. Is there somebody really there listening to them?"
+    ],
+    "explanation": "Active listening requires understanding of the speaker's perspective and needs."
+  },
+  {
+    "edgeType": "supports",
+    "from": "Resourcefulness",
+    "to": "Self-reliance",
+    "quotes": [
+      "[00:10:01] And then a lot of people don't wanna use their voice 'cause it's like nobody caress, it's just me."
+    ],
+    "explanation": "Resourcefulness supports self-reliance by providing the ability to find solutions independently."
+  }
+]

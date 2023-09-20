@@ -1,0 +1,41 @@
+[
+  {
+    "edgeType": "requires",
+    "from": "Resilience",
+    "to": "Understanding",
+    "quotes": [
+      "[00:01:59] It gets frustrating at times. You wonder if you got what it takes to keep going, to make it.",
+      "[00:02:21] Is it any way that I can help 'em what they going through? But I'm going through it, but I'm, I'm getting help by helping them."
+    ],
+    "explanation": "The interviewee's resilience in facing challenges requires understanding of his own situation and the situations of others."
+  },
+  {
+    "edgeType": "supports",
+    "from": "Community Involvement",
+    "to": "Empathy",
+    "quotes": [
+      "[00:10:06] So you have to begin to know the things that you need to know in order to live a successful life. Live a crime free life. Live a life that you can be helpful to someone in some way, and then begin to uplift yourself and follow humanity. The people that need help out here."
+    ],
+    "explanation": "The interviewee's involvement in the community supports his empathy towards others who are going through similar experiences."
+  },
+  {
+    "edgeType": "leads to",
+    "from": "Education",
+    "to": "Resilience",
+    "quotes": [
+      "[00:05:41] Technology. It was, it was a, it was real tough because I didn't even know how to use the telephone.",
+      "[00:06:52] You wanna be able to be independent. 'cause after so long being in, in that cage and, and everything is given to you all. Or, okay, let me learn something on my own and then let me go see if I'm capable of doing A, B, and C and then getting the desired result that I would like to have, 'cause then you can, you can put your resume on there. you, you learn a lot of things which you can use it for, for good to assist you in elevating yourself, and that's real important."
+    ],
+    "explanation": "The interviewee's education in technology and other areas leads to his resilience in overcoming challenges."
+  },
+  {
+    "edgeType": "requires",
+    "from": "Patience",
+    "to": "Resilience",
+    "quotes": [
+      "[00:01:59] It gets frustrating at times. You wonder if you got what it takes to keep going, to make it.",
+      "[00:02:21] Is it any way that I can help 'em what they going through? But I'm going through it, but I'm, I'm getting help by helping them."
+    ],
+    "explanation": "The interviewee's patience in dealing with challenges requires resilience."
+  }
+]

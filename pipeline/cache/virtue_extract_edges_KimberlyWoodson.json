@@ -1,0 +1,47 @@
+[
+  {
+    "edgeType": "requires",
+    "from": "Justice",
+    "to": "Fairness",
+    "quotes": [
+      "[00:02:40] Because I'm not the right ethnicity, you know what I'm saying? So it's like the same things can happen to the black and brown women for forever. And the first time it happens to someone of another race, then all hell loose. And that's not fair."
+    ],
+    "explanation": "The interviewee expresses a need for fairness in the justice system, particularly in relation to racial disparities."
+  },
+  {
+    "edgeType": "leads to",
+    "from": "Education",
+    "to": "Problem-solving",
+    "quotes": [
+      "[00:14:43] Detroit public schools get the. Bottom of the resources. I feel like, and this have a lot to do with gerrymandering, prison gerrymandering, it's like when you lock up our residents from Detroit, when you go to any prison outta all the prisons in Michigan, the higher the largest population they're gonna have is gonna be from Wayne County."
+    ],
+    "explanation": "The interviewee suggests that improving education can lead to problem-solving, particularly in relation to systemic issues like gerrymandering and prison populations."
+  },
+  {
+    "edgeType": "supports",
+    "from": "Compassion",
+    "to": "Justice",
+    "quotes": [
+      "[00:06:11] Domestic violence to me, like during covid 19. Everybody got to see the real people. The real monsters came out in the homes. People that was maybe able to go cheat with they girlfriends or whatever they was able to do, whatever extra release they was having was taking it all out on the people that was closest to them."
+    ],
+    "explanation": "The interviewee suggests that compassion for victims of domestic violence can support the pursuit of justice."
+  },
+  {
+    "edgeType": "requires",
+    "from": "Courage",
+    "to": "Self-reliance",
+    "quotes": [
+      "[00:02:09] My fear is do I flee Detroit or Michigan because they don't see my baby? I. And they would never see her. Or do I stand and scream and shout and keep doing everything I feel is right, not for just myself and my daughter, but for my community."
+    ],
+    "explanation": "The interviewee expresses a need for courage in order to be self-reliant and stand up for her community."
+  },
+  {
+    "edgeType": "conflicts with",
+    "from": "Justice",
+    "to": "Respect",
+    "quotes": [
+      "[00:01:38] Women, where is our righteous indignity? They lock up mothers. And when you lock up a mom, you destroy a community. When you lock up a dad, you don't need to destroy a household. So it's like where is the protection for the women that are incarcerated are, are there because of direct action of a man or a dominant co-defendant who was forcing things on them."
+    ],
+    "explanation": "The interviewee suggests a conflict between justice and respect, particularly in relation to the treatment of incarcerated women."
+  }
+]
