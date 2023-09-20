@@ -1,0 +1,58 @@
+[
+  { 
+    "edgeType": "leads to", 
+    "from": "Support for Returning Citizens", 
+    "to": "Mental Health Awareness", 
+    "quotes": ["[00:01:11] And I think like if I went through that, I can't imagine the amount of of other people that need healing in that way too."], 
+    "explanation": "The interviewee's experience as a returning citizen led her to realize the importance of mental health awareness."
+  },
+  { 
+    "edgeType": "requires", 
+    "from": "Support for Returning Citizens", 
+    "to": "Access to Housing", 
+    "quotes": ["[00:02:00] Because one day you're gonna get out. That's the hope, right? Is that either you're gonna stay incarcerated or you're gonna get out. It's one or the other. And so if you're gonna get out, How do we make it a easier transition? And so one of the things that I think is lacking aside from mental support is housing and and also employment."], 
+    "explanation": "The interviewee suggests that support for returning citizens requires access to housing."
+  },
+  { 
+    "edgeType": "requires", 
+    "from": "Support for Returning Citizens", 
+    "to": "Fair Employment Opportunities", 
+    "quotes": ["[00:02:25] So when I say that, I mean there are companies that we know we work with that will hire people. How do we get more companies involved in that and wanting to support, because it doesn't just help the person that's formerly incarcerated, like it will help. Make a more viable economy economic mobility for everyone in our community."], 
+    "explanation": "The interviewee suggests that support for returning citizens requires fair employment opportunities."
+  },
+  { 
+    "edgeType": "supports", 
+    "from": "Fair Employment Opportunities", 
+    "to": "Access to Housing", 
+    "quotes": ["[00:02:50] So how do we bring jobs and housing? And it seems like a very broad topic, but it's one of the things that I've been working heavily on."], 
+    "explanation": "The interviewee suggests that fair employment opportunities support access to housing."
+  },
+  { 
+    "edgeType": "requires", 
+    "from": "Voting Rights", 
+    "to": "Political Transparency", 
+    "quotes": ["[00:08:23] Housing, employment mental health. We have to tell them and let them know that they actually work for the people. So, , so one of the things that we actively do is go out to these coffee hours, especially right now, they're on break and make sure that, , they know like the people are watching and we're holding them accountable."], 
+    "explanation": "The interviewee suggests that voting rights require political transparency."
+  },
+  { 
+    "edgeType": "leads to", 
+    "from": "Political Transparency", 
+    "to": "Legislative Reform", 
+    "quotes": ["[00:11:15] I'm really passionate about legislation because I feel like policy and legislation is really where we can start making things better for everyone, especially people who are justice involved and people who who are impacted by what we call our legal system."], 
+    "explanation": "The interviewee suggests that political transparency can lead to legislative reform."
+  },
+  { 
+    "edgeType": "requires", 
+    "from": "Community Involvement", 
+    "to": "Support for Returning Citizens", 
+    "quotes": ["[00:11:31] , there's so many different organizations that are trying to do this work and trying to support people who are justice involved., one of the problems I've experienced is that, We're like in these different silos."], 
+    "explanation": "The interviewee suggests that community involvement is required for support for returning citizens."
+  },
+  { 
+    "edgeType": "similar to", 
+    "from": "Access to Housing", 
+    "to": "Fair Employment Opportunities", 
+    "quotes": ["[00:12:18] There is definite interconnection because if you don't have a safe place to lay your head at night, if you don't have a job to pay just to live and survive if you don't have reproductive freedom then. Why would you care about voting? Why would you care about these other issues?"], 
+    "explanation": "The interviewee suggests that access to housing and fair employment opportunities are similar in their importance and interconnectedness."
+  }
+]

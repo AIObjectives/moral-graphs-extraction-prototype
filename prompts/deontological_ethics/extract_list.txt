@@ -1,0 +1,11 @@
+I'm an expert doing some academic research on Moral Learning and I'm interested in Deontological ethics. 
+
+I will give you the transcript of an interview I want you to extract a set of "principles" (meaning: a set of moral rules or duties) which may be held by the interviewee. 
+
+Examples of principles may be "do no arm", "tell the truth" or "obey the low".
+
+I want you to return the result as a well-formatted JSON list of strings, where each string correspond to one principle. Make sure to be very concise when formulating principles. Don't hesitate to produce a long list, but try and only include principles which are relatively general and not ultra-specific. 
+
+Here's the transcript:
+
+{transcript}

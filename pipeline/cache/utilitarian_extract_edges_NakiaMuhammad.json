@@ -1,0 +1,37 @@
+[
+  { 
+    "edgeType": "leads to", 
+    "from": "Support for Returning Citizens", 
+    "to": "Fair Judicial System", 
+    "quotes": ["one of the, one of my largest, challenges at this time is being a return a citizen and, the reintegration aspect into society.", "But when we get to that background check aspect of things, I'm dead in the water"], 
+    "explanation": "The interviewee's experience as a returning citizen leads him to advocate for a fair judicial system, particularly in terms of background checks."
+  },
+  { 
+    "edgeType": "requires", 
+    "from": "Access to Technology", 
+    "to": "Technological Literacy", 
+    "quotes": ["Here in Detroit there's many things that this computer is not just for toy.", "people don't know what they don't know and they don't know what they need to know because they don't know."], 
+    "explanation": "The interviewee suggests that access to technology requires technological literacy, as people need to know how to use technology effectively."
+  },
+  { 
+    "edgeType": "supports", 
+    "from": "Mental Health Awareness", 
+    "to": "Support for Returning Citizens", 
+    "quotes": ["mental health. another of the things that. It kind of has helped me, me understanding that particularly for black men, cuz it's something we don't like, mental health issues for us is I'm crazy as opposed to this is depression, anxiety, grief, et cetera."], 
+    "explanation": "The interviewee's emphasis on mental health awareness supports his value of support for returning citizens, as he believes mental health issues need to be addressed for successful reintegration."
+  },
+  { 
+    "edgeType": "requires", 
+    "from": "Credit Score Improvement", 
+    "to": "Support for Returning Citizens", 
+    "quotes": ["another thing, credit and things of that nature and, and trying to get your credit score to a point where you can qualify for, Purchasing a home and assistance with down payment."], 
+    "explanation": "The interviewee suggests that credit score improvement requires support for returning citizens, as they often face financial challenges."
+  },
+  { 
+    "edgeType": "requires", 
+    "from": "Public Education", 
+    "to": "Political Transparency", 
+    "quotes": ["even with education. Those resources in Detroit versus where I was in, out Utica, Sterling Heights night and day.", "Legislation and things like that do need to change."], 
+    "explanation": "The interviewee suggests that improving public education requires political transparency, as he believes legislation and resource distribution need to change."
+  }
+]

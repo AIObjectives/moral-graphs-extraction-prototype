@@ -1,0 +1,37 @@
+[ 
+  { 
+    "edgeType": "leads to", 
+    "from": "Support technological literacy", 
+    "to": "Equal opportunity access", 
+    "quotes": ["[00:00:16] There was always those who, who seemed to have some connection to technology, They still were able to get access to enough of the parts or information or knowledge to assemble something on their own in their hobble they, they didn't have running or clean water, but they could utilize this information in some pieces and parts and create something wonderful"], 
+    "explanation": "The interviewee believes that supporting technological literacy can lead to equal opportunity access, as it allows individuals to utilize technology to create and innovate, regardless of their circumstances." 
+  }, 
+  { 
+    "edgeType": "requires", 
+    "from": "Support post-prison reintegration", 
+    "to": "Support technological literacy", 
+    "quotes": ["[00:04:50] A lot of folks who I was coming home with didn't, and especially I and I, that I think I expected, what I didn't expect was to come home after 20 years of incarceration. The only technology I had access to was, again, a desktop. I'm, and like, I'm not even using Google Sheets or anything. I'm using Open Office"], 
+    "explanation": "The interviewee suggests that supporting post-prison reintegration requires supporting technological literacy, as many individuals coming out of prison lack the technological skills needed to navigate modern society." 
+  }, 
+  { 
+    "edgeType": "supports", 
+    "from": "Justice system fairness", 
+    "to": "Support post-prison reintegration", 
+    "quotes": ["[00:10:35] I don't think we act, we often talk about and that is what we pour into a vacuum. And what I mean by that is, I. I take myself, for example, the, the story I just gave you. I came home, I was in prison for 20 years. I was 17 years old. I don't care how much, how fast I was with tech inside."], 
+    "explanation": "The interviewee suggests that justice system fairness supports post-prison reintegration, as it would ensure that individuals coming out of prison are given the resources and support they need to reintegrate into society." 
+  }, 
+  { 
+    "edgeType": "requires", 
+    "from": "Encourage active citizenship", 
+    "to": "Support technological literacy", 
+    "quotes": ["[00:14:32] We have to live within this system and these issues and find, it's, it's like the, it's like the nonprofit approach, You have, or, or you have the folks who are on the ground not the nonprofit approach, but the social change approach where you have the two sides, right."], 
+    "explanation": "The interviewee suggests that encouraging active citizenship requires supporting technological literacy, as it allows individuals to participate more fully in society and contribute to social change." 
+  }, 
+  { 
+    "edgeType": "supports", 
+    "from": "Continuous self-improvement", 
+    "to": "Support technological literacy", 
+    "quotes": ["[00:02:42] But I always had an interest. Science was always my thing. And so when I was incarcerated, I was a person that science digests and sci-fi news that was the stuff like I, that would, would be some things I would do for my own personal interest to kind of feed my own soul."], 
+    "explanation": "The interviewee suggests that continuous self-improvement supports technological literacy, as it encourages individuals to pursue their interests and learn new skills, such as technology." 
+  } 
+]

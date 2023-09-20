@@ -1,0 +1,23 @@
+[
+  {
+    "edgeType": "leads to", 
+    "from": "Mental Health Awareness", 
+    "to": "Support for Victims of Domestic Violence", 
+    "quotes": ["Mental health should be offered to the victim as well as those who abuse people.", "I often feel that if my brother-in-law had got help, Real counseling that he could have seen that his way of love was not conducive to the marriage and they could have worked out him having anger issues or insecurity issues or whatever."], 
+    "explanation": "The interviewee believes that mental health awareness and support can lead to better support for victims of domestic violence, as it can help both victims and abusers address their issues."
+  },
+  {
+    "edgeType": "requires", 
+    "from": "Public Education", 
+    "to": "Access to Technology", 
+    "quotes": ["Technology is not my best friend at all. I, it sucks. I suck. And technology, t technology sucks.", "But if we set up something in the Department of Corrections, it can be a dummy thing where it's only connected to like one database. Mm-hmm. Where they can like practice research and stuff."], 
+    "explanation": "The interviewee suggests that public education requires access to technology, as it is a crucial tool for learning and research."
+  },
+  {
+    "edgeType": "conflicts with", 
+    "from": "Racial Equality", 
+    "to": "Public Education", 
+    "quotes": ["Detroit public schools get the. Bottom of the resources.", "I want the same education level and I wanted to be the top grade."], 
+    "explanation": "The interviewee believes that the current state of public education conflicts with racial equality, as schools in predominantly black areas like Detroit receive fewer resources."
+  }
+]

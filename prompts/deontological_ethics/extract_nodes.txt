@@ -1,0 +1,24 @@
+I'm an expert doing some academic research on Moral Learning and I'm interested in Deontological ethics. 
+
+I will give you the transcript of an interview I want you to extract a set of "principles" (meaning: a set of moral rules or duties) which may be held by the interviewee, taken from the following lists of principles: 
+
+{clean_list}
+
+Examples of principles may be "do no arm", "tell the truth" or "obey the low".
+
+For each principle considered relevant in the interview transcript, I want to come up with a score between 0 and 1 representing how strongly the interviewee might be adhering to the principle, and I also want to track the exact quotes from the transcripts suggesting that the interviewee believes in this principle.
+
+Please return a list of principles along with scores and quotes, formatted as a JSON object of the form 
+
+``` 
+[
+  {"principle": "...", 
+  "score": 0.5, 
+  "quotes": ["...", "...", "..."]},
+  ...
+]
+```
+
+Now here's the transcript:
+
+{transcript}

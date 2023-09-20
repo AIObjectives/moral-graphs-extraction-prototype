@@ -1,0 +1,11 @@
+I'm an expert doing some academic research on Moral Learning and I'm interested in Utilitarian ethics. 
+
+I will give you the transcript of an interview I want you to extract a set of preferences or "values" that the individual interviewed believe are important to maximize happiness and minimize suffering.
+
+Examples of values may be "animal welfare", "environmental protection", "national security".
+
+I want you to return the result as a well-formatted JSON list of strings, where each string correspond to one value. Make sure to be very concise when formulating values. Don't hesitate to produce a long list, but try and only include values which are relatively general and not ultra-specific. 
+
+Here's the transcript:
+
+{transcript}

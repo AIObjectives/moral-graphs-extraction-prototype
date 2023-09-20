@@ -1,0 +1,29 @@
+I have analyzed the transcript of an interview to extract some representations of the 
+moral virtues expressed by the interviewee. 
+
+Here's what I got: 
+
+{nodes_json}
+
+I am now interested in representing this individual's virtues as a knowledge graph where the nodes will represent different virtues and with edges such as: 
+
+* `leads to`: this edge could mean that one virtue naturally leads to another
+* `supports`: This edge could be used to represent the fact that one virtue supports another virtues. 
+* `conflicts with`: This edge could be used to represent the fact that one virtue conflicts with another. 
+* `requires`: This edge could be used to represent the fact that one virtue requires another virtue in order to be achieved. 
+* `similar to`: This edge could be used to represent the fact that two virtues are similar to each other. 
+* `opposite of`: This edge could be used to represent the fact that two virtues are opposite of each other. 
+
+Looking again at the interview transcript below which edges would you add to the graph, and can you include quotes from the original text suggesting that the edge should be there.
+
+Please return the result as JSON objects
+ 
+ { 
+  "edgeType": "...", 
+  "from": "virtue1", 
+  "to": "virtue2", 
+  "quotes": ["...", "..."], 
+  explanation: ""
+}
+
+{transcript}

@@ -1,0 +1,42 @@
+[
+  {
+    "edgeType": "leads to",
+    "from": "Support post-prison reintegration",
+    "to": "Support technological literacy",
+    "quotes": [
+      "People, a lot of people my age, maybe even older don't really know how to operate the new thing, the new technologies that are out there, my grandkids at four years old can operate, they can tell me stuff.",
+      "they didn't get that. And, and the staff inside doesn't become their parents at all."
+    ],
+    "explanation": "Support for post-prison reintegration leads to promoting technological literacy as former inmates may need to gain tech skills they missed out on while incarcerated."
+  },
+  {
+    "edgeType": "requires",
+    "from": "Support post-prison reintegration",
+    "to": "Change hiring practices",
+    "quotes": [
+      "And then coming out with a felony, where do you work and where do you get loans and where do you find housing and.",
+      "And you're not supposed to go back into your old neighborhood. . So where do you go?"
+    ],
+    "explanation": "Support for post-prison reintegration requires changing hiring practices, as felons often face discrimination in the job market."
+  },
+  {
+    "edgeType": "supports",
+    "from": "Equal opportunity access",
+    "to": "Support post-prison reintegration",
+    "quotes": [
+      "You don't have to be what they call a sucker for stuff, but you just have true compassion and understanding as to what's happening with these people.",
+      "it's still lopsided. It's still, it's still got one leg, ? And then, and our system is still limping and it's still blind."
+    ],
+    "explanation": "Equal opportunity access supports support for post-prison reintegration as it promotes a more balanced system for released convicts."
+  },
+  {
+    "edgeType": "similar to",
+    "from": "Help without expectation",
+    "to": "Encourage voting",
+    "quotes": [
+      "you don't really have to have a lot of money to, to try to make a difference. You just gotta have a, a ear and a heart to see a change.",
+      "Get involved. We have voices for a reason."
+    ],
+    "explanation": "Help without expectation and encourage voting seem to represent compassionate involvement in societal issues."
+  }
+]

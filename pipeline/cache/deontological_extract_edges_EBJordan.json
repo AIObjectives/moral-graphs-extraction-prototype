@@ -1,0 +1,64 @@
+[
+  {
+    "edgeType": "requires",
+    "from": "Advocate for ex-prisoners",
+    "to": "Help without expectation",
+    "quotes": [
+      "So now I help women returning home from prison and hopefully in three months I have my own house.",
+      "I hear that somebody's coming home."
+    ],
+    "explanation": "The practice of advocating for ex-prisoners requires one to help others without expecting anything in return, as indicated by these quotes."
+  },
+  {
+    "edgeType": "leads to",
+    "from": "Available resources for growth",
+    "to": "Support post-prison reintegration",
+    "quotes": [
+      "I have another program called Free Donors Receive Education and Employment...",
+      "We do mock interviews because at the interview, they're gonna look at your resume and see there's a gap in your resume and you have to explain that gap in your resume."
+    ],
+    "explanation": "Making resources available that support growth, such as education and employment opportunities, leads to supporting post-prison reintegration."
+  },
+  {
+    "edgeType": "supports",
+    "from": "Promote fair legislation",
+    "to": "Justice system fairness",
+    "quotes": [
+      "When they did the redistricting that tore us all up, they moved the lines all over the place.",
+      "Washington, DC you can vote while you still in, in prison. So I wanted to try to get that policy, like how can we change that rule?"
+    ],
+    "explanation": "Promoting fair legislation supports the wider principle of justice system fairness, as suggested by these quotes."
+  },
+  {
+    "edgeType": "similar to",
+    "from": "Support technological literacy",
+    "to": "Available resources for growth",
+    "quotes": [
+      "When you go, I was used to going in and ask for an application, but they say you had to do it online.",
+      "...partner with an online college that does IT work so anybody's in the IT world.",
+      "That's something you do online as far as work."
+    ],
+    "explanation": "Supporting technological literacy can be seen as a similar principle to providing available resources for growth as both aid in individual development, according to these quotes."
+  },
+  {
+    "edgeType": "supports",
+    "from": "Encourage voting",
+    "to": "Justice system fairness",
+    "quotes": [
+      "I've been voting since I got out.",
+      "Just because you got it, that don't mean you can't vote.",
+      "What's happening in your neighborhood? Why don't you start there voting on that."
+    ],
+    "explanation": "Encouraging voting supports the wider principle of justice system fairness, as it empowers individuals to participate in the democratic process, as these quotes suggest."
+  },
+  {
+    "edgeType": "requires",
+    "from": "Change hiring practices",
+    "to": "Ensure fair wages",
+    "quotes": [
+      "They said I was a felon, so I tried to apply for the housing program, may have, and they also said I couldn't get out 'cause I was a felon.",
+      "The two and few, the two, the, the, the two and few dollars at like McDonald's and stuff, that wasn't gonna help me."
+    ],
+    "explanation": "Changing hiring practices requires ensuring fair wages, as these quotes imply the interconnectedness of accessible employment and wage equity."
+  }
+]

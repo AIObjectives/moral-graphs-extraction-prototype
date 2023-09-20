@@ -1,0 +1,44 @@
+{
+  "1": { 
+    "edgeType": "leads to", 
+    "from": "Support post-prison reintegration", 
+    "to": "Change hiring practices", 
+    "quotes": ["[00:08:26] Nobody seems to wanna take the chance on you. I always joke that I was 30 for 30 in interviews. When I, when I came home, everybody wanted to hire me and, and gave me the thumbs up. And then, and, and, and I was not dishonest about my incarceration. I was very honest about my incarceration. But then when they actually, , did the background check, they apparently didn't hear me properly cuz then they rescinded the offer."], 
+    "explanation": "Supporting post-prison reintegration leads to a need to change hiring practices."
+  },
+  "2": { 
+    "edgeType": "requires", 
+    "from": "Support post-prison reintegration", 
+    "to": "Provide mental health resources", 
+    "quotes": ["[00:00:00] Recently I just engaged in mental health therapy myself. And even with good insurance, I've found that it's kind of tricky post or during Covid to find carriers that will."], 
+    "explanation": "Supporting post-prison reintegration requires providing mental health resources."
+  },
+  "3": { 
+    "edgeType": "supports", 
+    "from": "Support technological literacy", 
+    "to": "Support post-prison reintegration", 
+    "quotes": ["[00:01:55] I went in in 1993, and I came ho home in 2020. January of 2020, it also, it also threw me into the deep end of the pool when it came to technology."], 
+    "explanation": "Supporting technological literacy supports post-prison reintegration."
+  },
+  "4": { 
+    "edgeType": "conflicts with", 
+    "from": "Support post-prison reintegration", 
+    "to": "Equality in education", 
+    "quotes": ["[00:10:48] . One of the things is, is that the system often abuses things like that. And so they had a bunch of people going to class and they weren't walking out with degrees. They were walking around about out with a bunch of credits and sometimes that still is the case."], 
+    "explanation": "Supporting post-prison reintegration conflicts with equality in education."
+  },
+  "5": { 
+    "edgeType": "similar to", 
+    "from": "Advocate for ex-prisoners", 
+    "to": "Support post-prison reintegration", 
+    "quotes": ["[00:13:12] Our organization's called A Brighter Way, and it was started by three individuals who were formally incarcerated and they realized that there had to be a better way of doing things than they were doing at the time."], 
+    "explanation": "Advocating for ex-prisoners is similar to supporting post-prison reintegration."
+  },
+  "6": { 
+    "edgeType": "requires", 
+    "from": "Ensure fair wages", 
+    "to": "Change hiring practices", 
+    "quotes": ["[00:23:56] One of the things that we're employing in our model is we're trying to do, we're trying to create a living wage. It's an entry level position. So in Michigan, $40,000 in insurance and stuff like that isn't bad."], 
+    "explanation": "Ensuring fair wages requires changing hiring practices."
+  }
+}

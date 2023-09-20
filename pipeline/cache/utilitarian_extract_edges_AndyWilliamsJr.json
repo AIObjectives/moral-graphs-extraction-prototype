@@ -1,0 +1,47 @@
+[
+  {
+    "edgeType": "leads to",
+    "from": "Access to Legal Representation",
+    "to": "Fair Judicial System",
+    "quotes": [
+      "The challenges that I would say I'm facing is getting access to More legal advocates like counselors, legal counsel because one thing that I, I do is I'm an advocate and I use litigation that has already successfully, won."
+    ],
+    "explanation": "The interviewee suggests that having access to legal representation can lead to a fairer judicial system."
+  },
+  {
+    "edgeType": "requires",
+    "from": "Prison Reform",
+    "to": "Mental Health Awareness",
+    "quotes": [
+      "And if we got rid of. What I consider victimless crimes, like possession of drugs or things. , it's two things. When I look about drug possession, one, you're criminalizing a status. 'cause there's people in jail for being addicts and so you're criminalizing their status."
+    ],
+    "explanation": "The interviewee suggests that prison reform requires an understanding and awareness of mental health issues, such as addiction."
+  },
+  {
+    "edgeType": "supports",
+    "from": "Community Involvement",
+    "to": "Support for Returning Citizens",
+    "quotes": [
+      "So a lot of the barriers today that are faced. I didn't face him. And by the time, if I even would've faced him, I was already like the local poster child. the guy who arrested me on my drug case wound up becoming the chief of police. And then I sat on a board with him. I was in the church. So, like the community I think as a whole really embraced me and just how I grew up."
+    ],
+    "explanation": "The interviewee suggests that community involvement can support returning citizens in their reintegration into society."
+  },
+  {
+    "edgeType": "conflicts with",
+    "from": "Fair Employment Opportunities",
+    "to": "Racial Equality",
+    "quotes": [
+      "When the person gets outta jail and is trying to get a job and it's not working, he goes back to sell drugs. He ain't doing it 'cause he want to, he tried to do something different, but this is what works."
+    ],
+    "explanation": "The interviewee suggests that the lack of fair employment opportunities for returning citizens conflicts with the goal of achieving racial equality."
+  },
+  {
+    "edgeType": "similar to",
+    "from": "Access to Housing",
+    "to": "Fair Employment Opportunities",
+    "quotes": [
+      "When the person gets outta jail and is trying to get a job and it's not working, he goes back to sell drugs. He ain't doing it 'cause he want to, he tried to do something different, but this is what works."
+    ],
+    "explanation": "The interviewee suggests that the challenges faced in accessing housing for returning citizens are similar to those faced in accessing fair employment opportunities."
+  }
+]

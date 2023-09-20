@@ -1,0 +1,30 @@
+[
+  { 
+    "edgeType": "leads to", 
+    "from": "Public Education", 
+    "to": "Mental Health Awareness", 
+    "quotes": ["So my values were, you should read more, travel more, understand the habits of CEOs and develop. Tools to understand their mental health.", "So for the years of her going back and forth to doctors getting prescribed medications, that didn't work.", "And so as an adult I started to see how essential understanding of mental health was younger and younger is something that we don't talk about."], 
+    "explanation": "The interviewee's experience in public education led him to realize the importance of mental health awareness, especially among young people."
+  },
+  { 
+    "edgeType": "requires", 
+    "from": "Access to Affordable Groceries", 
+    "to": "Public Education", 
+    "quotes": ["How can you think right when you're not eating right.", "So if you don't have a healthy breakfast, how could I have been grading you and holding you accountable when you didn't have the basic tools to be successful?"], 
+    "explanation": "The interviewee believes that access to affordable groceries is a prerequisite for effective public education, as students cannot focus or perform well academically if they are hungry."
+  },
+  { 
+    "edgeType": "supports", 
+    "from": "Access to Technology", 
+    "to": "Public Education", 
+    "quotes": ["To the resources of technology, like being able to make sure youth are exposed to where technology is headed.", "If you don't have access to wifi, you don't have access to The future."], 
+    "explanation": "The interviewee believes that access to technology supports public education by preparing students for the future and preventing them from being left behind."
+  },
+  { 
+    "edgeType": "requires", 
+    "from": "Community Involvement", 
+    "to": "Public Education", 
+    "quotes": ["So, Just trying to do the work of person that I needed when I was young.", "So my focus is how can you send me your, your leaders, send me your bosses, send me your students, your impact drivers, and then turn I'll provide them with the resources, the experience and understanding, and then they can go back into their village and they can do the same for those that I can't reach."], 
+    "explanation": "The interviewee believes that community involvement is necessary for effective public education, as it allows for the sharing of resources and experiences that can benefit students."
+  }
+]

@@ -1,0 +1,11 @@
+I'm an expert doing some academic research on Moral Learning and I'm interested in Deontological ethics. 
+
+I will give you the transcript of an interview I want you to extract a set of "virtues", meaning dispositions or character traits that the individual interviewed believes are important to develop.
+
+Examples of virtues include: "honesty" or "courage".
+
+I want you to return the result as a well-formatted JSON list of strings, where each string correspond to one virtues. Make sure to be very concise when formulating virtues. Don't hesitate to produce a long list, but try and only include virtues which are relatively general and not ultra-specific. 
+
+Here's the transcript:
+
+{transcript}

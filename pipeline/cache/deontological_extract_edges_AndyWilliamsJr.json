@@ -1,0 +1,30 @@
+[
+  { 
+    "edgeType": "leads to", 
+    "from": "Justice system fairness", 
+    "to": "Promote fair legislation", 
+    "quotes": ["[00:09:21] So now we got a whole bunch of educated people that are saying, wait, the judicial system. We hired you. You didn't, you didn't hire us, we hired you. And your role is to be a neutral arbitrator. And so when they don't do that, then we file a claim against their surety bonds and then they're no longer insured and we'll begin to see the change."], 
+    "explanation": "The interviewee believes that fairness in the justice system can lead to the promotion of fair legislation. He suggests that when the judicial system fails to act as a neutral arbitrator, people can take action to promote fair legislation."
+  },
+  { 
+    "edgeType": "supports", 
+    "from": "Advocate for ex-prisoners", 
+    "to": "Support post-prison reintegration", 
+    "quotes": ["[00:04:26] And so what is that, 20 years ago or something? It definitely was a different environment of where it is now. , when I got out of prison and finally was done with my incarceration. 'cause when I got out, I went right back after three months for selling drugs. But I beat that case in a bench trial."], 
+    "explanation": "The interviewee's advocacy for ex-prisoners supports the principle of supporting post-prison reintegration. He shares his personal experience of reintegration after incarceration, highlighting the importance of support for ex-prisoners."
+  },
+  { 
+    "edgeType": "requires", 
+    "from": "Promote societal issue awareness", 
+    "to": "Justice system fairness", 
+    "quotes": ["[00:02:31] What legalized slavery is, 'cause we don't really grasp that, is when 30 Democrats and 17 Republicans vote on something that infringes upon our right. So if, if you label me a felon, And the Constitution or the Second Amendment says, I have the right to bear arms and you pass legislation that says, 'cause I'm a felon, I don't have the right to bear arms."], 
+    "explanation": "The interviewee suggests that promoting societal issue awareness requires justice system fairness. He uses the example of 'legalized slavery' to illustrate how societal issues can be addressed through fairness in the justice system."
+  },
+  { 
+    "edgeType": "similar to", 
+    "from": "Promote societal issue awareness", 
+    "to": "Promote fair legislation", 
+    "quotes": ["[00:08:10] The similar, the correlation between the black codes, the slave codes, the Jim Crow, the 1994 crime bill, the gang legislation, the habitual criminal, the enhancement, like all of this is designed based on that 13th amendment being passed to where we're at today, and that guilty verdict with the tribunal."], 
+    "explanation": "The interviewee sees a similarity between promoting societal issue awareness and promoting fair legislation. He draws a correlation between various historical and current legislations, suggesting that awareness of these issues can lead to the promotion of fair legislation."
+  }
+]

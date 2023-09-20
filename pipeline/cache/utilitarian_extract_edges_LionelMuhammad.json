@@ -1,0 +1,51 @@
+[
+  { 
+    "edgeType": "leads to", 
+    "from": "Fair Judicial System", 
+    "to": "Prison Reform", 
+    "quotes": ["[00:13:29] When they arrested me and locked me up, I had no idea what was going on. Took me to court, tried me. No witnesses, no evidence, no nothing.", "[00:14:04] They show the little captioning. I seen the judge. I said, man, I, I need to see what's going on. So I got in there and I listened. My judge. His name is Thomas J Maloney. They was arresting him and he went to jail. For what? Bribery. And blackmailed."], 
+    "explanation": "The interviewee's experience with the judicial system and the corruption he witnessed suggests that a fair judicial system would naturally lead to prison reform."
+  },
+  { 
+    "edgeType": "requires", 
+    "from": "Support for Returning Citizens", 
+    "to": "Access to Housing", 
+    "quotes": ["[00:04:07] And see, oh, okay, well I can find housing here. I can find jobs here. I can find healthcare here. I can find I need drug treatment. I can find that here. I need mental health treatment. I can find that here."], 
+    "explanation": "The interviewee emphasizes the importance of housing as a resource for returning citizens, suggesting that support for these individuals requires access to housing."
+  },
+  { 
+    "edgeType": "requires", 
+    "from": "Support for Returning Citizens", 
+    "to": "Fair Employment Opportunities", 
+    "quotes": ["[00:03:17] One of the things that has been challenging for me when I came home was, first of all, a job that was challenging", "[00:08:01] I also worked for CTA, Chicago Transit Authority. They hired me as an ex-offender."], 
+    "explanation": "The interviewee's personal experience and the challenges he faced in finding employment after his release suggest that support for returning citizens requires fair employment opportunities."
+  },
+  { 
+    "edgeType": "requires", 
+    "from": "Support for Returning Citizens", 
+    "to": "Access to Technology", 
+    "quotes": ["[00:11:04] You come into a world that's totally new, that you've been separated from for 30 years. You don't know how to use a phone, you don't know how to use a computer."], 
+    "explanation": "The interviewee's struggle with technology upon his release suggests that support for returning citizens requires access to technology."
+  },
+  { 
+    "edgeType": "requires", 
+    "from": "Support for Returning Citizens", 
+    "to": "Mental Health Awareness", 
+    "quotes": ["[00:10:14] Let's talk about the mental health. When, when a man or a woman comes from prison, what do resources do he or she have that can address his or her mental health?"], 
+    "explanation": "The interviewee's emphasis on the mental health challenges faced by returning citizens suggests that support for these individuals requires mental health awareness."
+  },
+  { 
+    "edgeType": "supports", 
+    "from": "Community Involvement", 
+    "to": "Support for Returning Citizens", 
+    "quotes": ["[00:15:32] They appreciate me taking the time out to come there because I don't, nobody pays me to do that. Yeah. I do that from my heart because I know what it's like not to get a letter."], 
+    "explanation": "The interviewee's personal involvement in supporting returning citizens suggests that community involvement supports the value of support for returning citizens."
+  },
+  { 
+    "edgeType": "conflicts with", 
+    "from": "Racial Equality", 
+    "to": "Fair Judicial System", 
+    "quotes": ["[00:00:07] And now we are free, but we only free to a certain degree. We're still paying for the crimes that we allegedly committed.", "[00:13:29] When they arrested me and locked me up, I had no idea what was going on. Took me to court, tried me. No witnesses, no evidence, no nothing."], 
+    "explanation": "The interviewee's experiences with the judicial system suggest that racial equality conflicts with the current state of the judicial system."
+  }
+]

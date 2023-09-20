@@ -1,0 +1,4 @@
+I'm going to give you a long list of virtues and I want you to produce a cleaner and shorter list by removing duplicates and rephrasing the principles to make them more concise. Please return at most 20 virtues. You should prioritize the virtues which have been mentioned most frequently in the original list but also make sure to cover some of the most original and less frequent virtues. Format the result as a JSON list of strings.
+
+Here's the long list:
+{values}

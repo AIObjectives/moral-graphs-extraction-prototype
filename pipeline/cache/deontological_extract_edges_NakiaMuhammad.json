@@ -1,0 +1,57 @@
+[
+  {
+    "edgeType": "leads to",
+    "from": "Continuous self-improvement",
+    "to": "Support post-prison reintegration",
+    "quotes": [
+      "Well, legitimately, I'm in my third year at DeVry University working on my bachelor's for network management and communications. I have numerous IT certifications from the bottom."
+    ],
+    "explanation": "The interviewee's continuous self-improvement in education and gaining IT certifications leads them to effectively reintegrate into society post-prison."
+  },
+  {
+    "edgeType": "requires",
+    "from": "Change hiring practices",
+    "to": "Support post-prison reintegration",
+    "quotes": [
+      ", if organization, these companies don't change hiring practices and making the background check. so highly important if, if a qualified individual.",
+      "But when we get to that background check aspect of things, I'm dead in the water"
+    ],
+    "explanation": "Successful post-prison reintegration requires changes in hiring practices, particularly regarding the importance placed on background checks."
+  },
+  {
+    "edgeType": "supports",
+    "from": "Advocate for ex-prisoners",
+    "to": "Support post-prison reintegration",
+    "quotes": [
+      "What's holding back, returning citizens? Cuz I've, me and other people I've, I've talked to like, why isn't there a returning citizen's union or, or something of the like"
+    ],
+    "explanation": "Advocacy for ex-prisoners supports their reintegration into society by pushing for fair treatment and equal opportunities."
+  },
+  {
+    "edgeType": "supports",
+    "from": "Provide mental health resources",
+    "to": "Continuous self-improvement",
+    "quotes": [
+      "another of the things that. It kind of has helped me, me understanding that particularly for black men, cuz it's something we don't like, mental health issues"
+    ],
+    "explanation": "Providing mental health resources supports continuous self-improvement by addressing and managing mental health issues."
+  },
+  {
+    "edgeType": "supports",
+    "from": "Equality in education",
+    "to": "Continuous self-improvement",
+    "quotes": [
+      "Those resources in Detroit versus where I was in, out Utica, Sterling Heights night and day. The, the resources in there, computer labs and things with, with my babies out there"
+    ],
+    "explanation": "Having equal access and resources in education can support an individual's continuous self-improvement."
+  },
+  {
+    "edgeType": "requires",
+    "from": "Promote fair legislation",
+    "to": "Change hiring practices",
+    "quotes": [
+      "there has to be changes across the board. well how does that look? Honestly, I don't know. I just know that it does, whether it's through, legislation, through company policy hiring practices"
+    ],
+    "explanation": "To change hiring practices, it requires the promotion of fair legislation."
+  }
+]

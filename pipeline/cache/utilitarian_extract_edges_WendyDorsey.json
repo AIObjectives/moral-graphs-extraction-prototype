@@ -1,0 +1,58 @@
+[
+  { 
+    "edgeType": "leads to", 
+    "from": "Access to Technology", 
+    "to": "Technological Literacy", 
+    "quotes": ["[00:00:06] So if you figuring out my age. Yeah, I am. , when I was coming up in high school, we did not have access to. The technology that was, that was starting to come about that was something that you really didn't see.", "[00:00:27] A lot of my technology learning was pretty much and is pretty much on hand hands-on, I should say."], 
+    "explanation": "The interviewee suggests that having access to technology leads to technological literacy, as she learned about technology through hands-on experience."
+  },
+  { 
+    "edgeType": "requires", 
+    "from": "Support for Returning Citizens", 
+    "to": "Access to Technology", 
+    "quotes": ["[00:00:57] A lot of people. A generation under me and, and beneath that had that technology given to them in school. Now what I've been put before lately we, with meeting the organization Silent Cry and dealing with people that are returning citizens and finding out that a lot of these individuals had left here, left home when they were like as young as 13 years old."], 
+    "explanation": "The interviewee suggests that supporting returning citizens requires providing them with access to technology, as many of them have been away from society for so long that they are unfamiliar with modern technology."
+  },
+  { 
+    "edgeType": "requires", 
+    "from": "Fair Judicial System", 
+    "to": "Access to Legal Representation", 
+    "quotes": ["[00:07:05] Well the young man that I was talking about, he killed his mother's boyfriend because his, he was abusive and he was only 13, but a child tried as an adult, and I think that's what the, the problem was, is that these people were were tried as, as adults and they were children. And not good representation."], 
+    "explanation": "The interviewee suggests that a fair judicial system requires access to good legal representation, as she mentions a case where a young man was tried as an adult without good representation."
+  },
+  { 
+    "edgeType": "requires", 
+    "from": "Prison Reform", 
+    "to": "Support for Returning Citizens", 
+    "quotes": ["[00:04:31] So now he's out and he's doing the same thing, surviving ' cause there's no skills affordable to him. And then coming out with a felony, where do you work and where do you get loans and where do you find housing and. No family. So what do you do?"], 
+    "explanation": "The interviewee suggests that prison reform requires support for returning citizens, as many of them struggle to find work, loans, and housing after being released."
+  },
+  { 
+    "edgeType": "leads to", 
+    "from": "Racial Equality", 
+    "to": "Fair Employment Opportunities", 
+    "quotes": ["[00:08:00] It, it hasn't, it hasn't changed. Even though they did pass that law. Let all these people out, they're still, they're still incarcerating young people. , and people of color and people with less economic standards. They're, they're treated less than everybody else."], 
+    "explanation": "The interviewee suggests that achieving racial equality would lead to fair employment opportunities, as she mentions that people of color are currently treated less than everybody else."
+  },
+  { 
+    "edgeType": "requires", 
+    "from": "Access to Housing", 
+    "to": "Support for Returning Citizens", 
+    "quotes": ["[00:04:31] So now he's out and he's doing the same thing, surviving ' cause there's no skills affordable to him. And then coming out with a felony, where do you work and where do you get loans and where do you find housing and. No family. So what do you do?"], 
+    "explanation": "The interviewee suggests that providing access to housing requires support for returning citizens, as many of them struggle to find housing after being released from prison."
+  },
+  { 
+    "edgeType": "requires", 
+    "from": "Public Education", 
+    "to": "Community Involvement", 
+    "quotes": ["[00:12:13] They should have a school in their district. They should have. Grocery stores and things affordable to 'em that they can walk to. They should have busing a, a, a bus system. We don't have, a lot of 'em don't have that anymore. They just don't have it. When I was going to school, we just walked up the block."], 
+    "explanation": "The interviewee suggests that public education requires community involvement, as she mentions the need for schools, grocery stores, and bus systems in local districts."
+  },
+  { 
+    "edgeType": "requires", 
+    "from": "Mental Health Awareness", 
+    "to": "Support for Victims of Domestic Violence", 
+    "quotes": ["[00:06:25] 'cause of women, women get raped, they get beat, they get. Really put in bad situations to make them do things that they really don't wanna do, but it becomes a, a thing of survival for a lot of them."], 
+    "explanation": "The interviewee suggests that mental health awareness requires support for victims of domestic violence, as she mentions the traumatic experiences that many women go through."
+  }
+]

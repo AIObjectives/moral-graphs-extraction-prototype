@@ -1,0 +1,4 @@
+I'm going to give you a long list of values and I want you to produce a cleaner and shorter list by removing duplicates and rephrasing the values to make them more concise. Please return at most 20 values. You should prioritize the values which have been mentioned most frequently in the original list but also make sure to cover some of the most original and less frequent values. Format the result as a JSON list of strings.
+
+Here's the long list:
+{values}

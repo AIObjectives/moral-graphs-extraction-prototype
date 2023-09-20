@@ -1,0 +1,62 @@
+[ 
+  {
+    "edgeType": "requires",
+    "from": "Support post-prison reintegration",
+    "to": "Change hiring practices",
+    "quotes": [
+      "getting a job, getting jobs. Because, people didn't wanna hire a felon.",
+      "they didn't wanna hire you in, that's one of the things I didn't like about the job."
+    ],
+    "explanation": "The quote suggests that successful reintegration after prison requires changes in hiring practices, as individuals struggle to find employment due to their criminal record."
+  },
+  {
+    "edgeType": "leads to",
+    "from": "Support technological literacy",
+    "to": "Change hiring practices",
+    "quotes": [
+      "But the little that I learned from them at that time, it helped me.",
+      "you learn a lot of things which you can use it for, for good to assist you in elevating yourself"
+    ],
+    "explanation": "The quote suggests that building technological literacy can lead to better hiring practices as it increases the employability of the individual."
+  },
+  {
+    "edgeType": "requires",
+    "from": "Provide mental health resources",
+    "to": "Support post-prison reintegration",
+    "quotes": [
+      "and that plays into your it plays into your mental, because you already struggling out here",
+      "we need help dealing with this stuff because mental health is very, very important when dealing with ex prisoners"
+    ],
+    "explanation": "The quote suggests that mental health resources are required to support post-prison reintegration as individuals struggle with mental health issues when transitioning to a life after prison."
+  },
+  {
+    "edgeType": "supports",
+    "from": "Promote societal issue awareness",
+    "to": "Change hiring practices",
+    "quotes": [
+      "I found out that a lot of organizations in the years I've been out, they do a lot of talk.",
+      "We need to get the groups together that's doing the work."
+    ],
+    "explanation": "The quote suggests that promoting societal issue awareness supports changes in hiring practices as more people become aware of the struggles faced by prisoners in job searching."
+  },
+  {
+    "edgeType": "requires",
+    "from": "Maintain good credit",
+    "to": "Support post-prison reintegration",
+    "quotes": [
+      "people need to know about how to get credit.",
+      "you'll find yourself. And a lot of debt"
+    ],
+    "explanation": "The quote suggests that maintaining good credit is required for successful reintegration after prison as financial struggles can hinder the reintegration process."
+  },
+  {
+    "edgeType": "supports",
+    "from": "Equality in education",
+    "to": "Encourage active citizenship",
+    "quotes": [
+      "Live a crime free life. Live a life that you can be helpful to someone in some way.",
+      "if you're saying you're gonna take some money, then you should put the money in education."
+    ],
+    "explanation": "The quote suggests that promoting equality in education supports encouraging active citizenship as education enables individuals to live a crime-free life and contribute to society."
+  }
+]

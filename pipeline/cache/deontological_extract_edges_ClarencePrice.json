@@ -1,0 +1,37 @@
+[ 
+  { 
+    "edgeType": "requires", 
+    "from": "Provide mental health resources", 
+    "to": "Promote societal issue awareness", 
+    "quotes": ["So for me it is getting those resources to the youth and making sure they have access to how they can Be able to develop their toolbox and deal in these times."], 
+    "explanation": "The interviewee believes that providing mental health resources requires promoting societal issue awareness, as he mentions the importance of understanding mental health issues and providing resources to the youth."
+  },
+  { 
+    "edgeType": "leads to", 
+    "from": "Equal opportunity access", 
+    "to": "Available resources for growth", 
+    "quotes": ["So, Pingry Farms is a farm that's 15 acres. It's 25 acres, 15 acres of it is planet. It hosts the four H program that has eight different animals."], 
+    "explanation": "The interviewee believes that equal opportunity access leads to available resources for growth, as he mentions the importance of providing access to resources like the farm for the youth to grow and learn."
+  },
+  { 
+    "edgeType": "supports", 
+    "from": "Support technological literacy", 
+    "to": "Equal opportunity access", 
+    "quotes": ["If you don't have access to wifi, you don't have access to The future. So with those lack of resources, there's gotta be some type of programming that we create to be able to make sure that our kids aren't getting left behind."], 
+    "explanation": "The interviewee believes that supporting technological literacy supports equal opportunity access, as he mentions the importance of providing access to technology for the youth to not get left behind."
+  },
+  { 
+    "edgeType": "requires", 
+    "from": "Promote societal issue awareness", 
+    "to": "Support technological literacy", 
+    "quotes": ["To the resources of technology, like being able to make sure youth are exposed to where technology is headed."], 
+    "explanation": "The interviewee believes that promoting societal issue awareness requires supporting technological literacy, as he mentions the importance of exposing the youth to where technology is headed."
+  },
+  { 
+    "edgeType": "similar to", 
+    "from": "Provide mental health resources", 
+    "to": "Equal opportunity access", 
+    "quotes": ["So for me it is getting those resources to the youth and making sure they have access to how they can Be able to develop their toolbox and deal in these times."], 
+    "explanation": "The interviewee believes that providing mental health resources is similar to equal opportunity access, as he mentions the importance of providing access to mental health resources for the youth."
+  } 
+]

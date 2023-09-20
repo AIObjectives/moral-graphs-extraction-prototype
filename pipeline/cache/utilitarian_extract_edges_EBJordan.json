@@ -1,0 +1,37 @@
+[
+  { 
+    "edgeType": "leads to", 
+    "from": "Access to Housing", 
+    "to": "Fair Employment Opportunities", 
+    "quotes": ["[00:00:22] I was part of the building trades in Huron Valley, so I figured I'd have a job with Habitat for Humanity, since they use Habitat for Humanity in prison. But when I came out, I asked, I applied for the job. They said I was a felon, so I tried to apply for the housing program, may have, and they also said I couldn't get out 'cause I was a felon."], 
+    "explanation": "The interviewee's struggle to find housing led them to seek employment opportunities in the building trades, which they had learned while in prison."
+  },
+  { 
+    "edgeType": "requires", 
+    "from": "Access to Technology", 
+    "to": "Fair Employment Opportunities", 
+    "quotes": ["[00:04:12] When you go, I was used to going in and ask for an application, but they say you had to do it online.", "[00:04:29] go online to fill out for your Medicaid, Medicare, your, food stamps, everything went to online and talking to the computer people on the phone, and I was used to going in person and talking to people."], 
+    "explanation": "The interviewee's experience shows that access to technology is required to seek and apply for employment opportunities in the modern job market."
+  },
+  { 
+    "edgeType": "supports", 
+    "from": "Access to Legal Representation", 
+    "to": "Fair Judicial System", 
+    "quotes": ["[00:09:01] And they was like, well my vote don't count. And this what I stick 'em with. Let's talk about stuff that happened locally. What's happening in your neighborhood? Why don't you start there voting on that. If you had a prosecutor or if you had a judge, you know, you could vote them outta the seat 'cause they didn't put you in jail."], 
+    "explanation": "The interviewee's advocacy for voting rights suggests that access to legal representation supports a fair judicial system by allowing individuals to vote out prosecutors or judges who they believe are not serving justice."
+  },
+  { 
+    "edgeType": "leads to", 
+    "from": "Community Involvement", 
+    "to": "Voting Rights", 
+    "quotes": ["[00:07:34] And then VAC, Voting Access for All. I was not a politician. I wasn't into politics. I wasn't into none of this.", "[00:08:38] I'm one of the founders, we need to inform people coming home. They need to learn that they had the right to vote."], 
+    "explanation": "The interviewee's involvement in the community led them to found an organization advocating for voting rights for all, including returning citizens."
+  },
+  { 
+    "edgeType": "requires", 
+    "from": "Credit Score Improvement", 
+    "to": "Access to Housing", 
+    "quotes": ["[00:06:10] They starting to teach it now, but my age, you get a credit card, swipe it. If, if your credit bad, use your kids' social security number, get back on it. That was my era, we need to, we need to eliminate that, but, To give us more financial literacy over ourselves, period."], 
+    "explanation": "The interviewee's experience suggests that improving one's credit score is required to gain access to housing, as bad credit can be a barrier to renting or buying a home."
+  }
+]

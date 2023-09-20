@@ -1,0 +1,37 @@
+[
+  { 
+    "edgeType": "leads to", 
+    "from": "Support post-prison reintegration", 
+    "to": "Provide mental health resources", 
+    "quotes": ["[00:01:11] And I think like if I went through that, I can't imagine the amount of of other people that need healing in that way too."], 
+    "explanation": "The interviewee suggests that supporting post-prison reintegration leads to the need to provide mental health resources, as many individuals require emotional and mental healing after their incarceration."
+  },
+  { 
+    "edgeType": "requires", 
+    "from": "Support post-prison reintegration", 
+    "to": "Change hiring practices", 
+    "quotes": ["[00:02:25] So when I say that, I mean there are companies that we know we work with that will hire people. How do we get more companies involved in that and wanting to support, because it doesn't just help the person that's formerly incarcerated, like it will help. Make a more viable economy economic mobility for everyone in our community."], 
+    "explanation": "The interviewee suggests that supporting post-prison reintegration requires changing hiring practices, as employment is a crucial part of reintegration into society."
+  },
+  { 
+    "edgeType": "supports", 
+    "from": "Promote fair legislation", 
+    "to": "Support post-prison reintegration", 
+    "quotes": ["[00:03:14] That was one of my fears was how do I ever go back to work? Who's gonna hire me?", "[00:03:40] The Michigan Fair Chance access to Housing Acts. Right now it is in the house. So it's in the legislative process."], 
+    "explanation": "The interviewee suggests that promoting fair legislation supports post-prison reintegration, as laws such as the Michigan Fair Chance Access to Housing Act can help remove barriers for formerly incarcerated individuals."
+  },
+  { 
+    "edgeType": "requires", 
+    "from": "Advocate for ex-prisoners", 
+    "to": "Encourage active citizenship", 
+    "quotes": ["[00:06:15] Aside from, I know housing is a big issue there's also voting. I also work with Voting Access for All Coalition VAC for short. And the main issue that we have found is that there's so many people. With a criminal record or just justice involved who think that they can't vote, they see or hear what's happening in Florida about some of the fines and fees or people voting and then later being fined or, or persecuted because of it And because of that, We found that there are people who are just hesitant to just, and they just say, what?"], 
+    "explanation": "The interviewee suggests that advocating for ex-prisoners requires encouraging active citizenship, as many formerly incarcerated individuals are hesitant to vote due to misconceptions about their rights."
+  },
+  { 
+    "edgeType": "similar to", 
+    "from": "Encourage voting", 
+    "to": "Encourage active citizenship", 
+    "quotes": ["[00:06:15] Aside from, I know housing is a big issue there's also voting. I also work with Voting Access for All Coalition VAC for short. And the main issue that we have found is that there's so many people. With a criminal record or just justice involved who think that they can't vote, they see or hear what's happening in Florida about some of the fines and fees or people voting and then later being fined or, or persecuted because of it And because of that, We found that there are people who are just hesitant to just, and they just say, what?"], 
+    "explanation": "The interviewee suggests that encouraging voting is similar to encouraging active citizenship, as both involve promoting civic engagement and participation in the democratic process."
+  }
+]

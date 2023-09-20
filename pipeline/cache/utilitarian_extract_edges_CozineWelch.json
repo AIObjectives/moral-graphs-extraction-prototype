@@ -1,0 +1,44 @@
+[
+  { 
+    "edgeType": "leads to", 
+    "from": "Access to Technology", 
+    "to": "Technological Literacy", 
+    "quotes": ["There was always those who, who seemed to have some connection to technology, They still were able to get access to enough of the parts or information or knowledge to assemble something on their own in their hovel."], 
+    "explanation": "The interviewee suggests that access to technology can lead to technological literacy, as individuals who have access to technology can learn to use it and develop skills."
+  },
+  { 
+    "edgeType": "requires", 
+    "from": "Support for Returning Citizens", 
+    "to": "Access to Technology", 
+    "quotes": ["I didn't expect to come home and I become the tech guy, not even six months from being home. Yeah, yeah. Seriously. I'm the one going through the phone, connecting this, showing 'em how to do that, finding why this is doing that, recognizing that you got some malware."], 
+    "explanation": "The interviewee suggests that support for returning citizens requires access to technology, as they often become the 'tech guy' for their community after returning from incarceration."
+  },
+  { 
+    "edgeType": "supports", 
+    "from": "Access to Legal Representation", 
+    "to": "Fair Judicial System", 
+    "quotes": ["While I'm incarcerated, I end up signing up for what's called the Legal Writer Program. So I'm really, I'm like pretty good at the law because, I was trying to appeal my own case."], 
+    "explanation": "The interviewee suggests that access to legal representation supports a fair judicial system, as it allows individuals to appeal their cases and seek justice."
+  },
+  { 
+    "edgeType": "requires", 
+    "from": "Prison Reform", 
+    "to": "Support for Returning Citizens", 
+    "quotes": ["So, like, and I, and that's obviously a, a problem too big for, for, for this approach, but it's one to be aware of because, whatever you do, that's where you're gonna be putting it at, you're gonna be putting your resources into someplace someone who has them and will."], 
+    "explanation": "The interviewee suggests that prison reform requires support for returning citizens, as they need resources and assistance to reintegrate into society."
+  },
+  { 
+    "edgeType": "leads to", 
+    "from": "Racial Equality", 
+    "to": "Fair Employment Opportunities", 
+    "quotes": ["Or for upper class folks, that wasn't them. Or for educated folks that wasn't there, but always folks that wasn't them. And now we realize, oh, that was a disservice."], 
+    "explanation": "The interviewee suggests that racial equality can lead to fair employment opportunities, as it can help to eliminate discrimination and ensure that everyone has an equal chance of finding employment."
+  },
+  { 
+    "edgeType": "requires", 
+    "from": "Access to Housing", 
+    "to": "Support for Returning Citizens", 
+    "quotes": ["That goes from anything from housing assistance to covid assistance, to job assistance, to interview assistance, to resumes, whatever. Because you can't assume that someone's coming home from incarceration and only needs a thing or two, you have to look at that whole person and their whole needs."], 
+    "explanation": "The interviewee suggests that access to housing requires support for returning citizens, as they often need assistance to find and secure housing after returning from incarceration."
+  }
+]

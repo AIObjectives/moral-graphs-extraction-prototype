@@ -1,0 +1,53 @@
+[
+  {
+    "edgeType": "requires",
+    "from": "Support post-prison reintegration",
+    "to": "Support technological literacy",
+    "quotes": [
+      "[00:20:38] But if we set up something in the Department of Corrections, it can be a dummy thing where it's only connected to like one database...",
+      "[00:19:42] Because if you have somebody that's locked up for decades coming home and you don't give them no pre-training with any kind of technology, you are setting them up for failure..."
+    ],
+    "explanation": "The interviewee suggests that a successful post-prison reintegration requires support for technological literacy. Lack of technological skills can be a critical barrier to finding a job and integrating back into the society."
+  },
+  {
+    "edgeType": "similar to",
+    "from": "Equality in education",
+    "to": "Justice system fairness",
+    "quotes": [
+      "[00:00:40] It was like there was no protection for women and girls then...",
+      "[00:14:43] Detroit public schools get the. Bottom of the resources. I feel like, and this have a lot to do with gerrymandering, prison gerrymandering..."
+    ],
+    "explanation": "Both the principles touch upon the need for more equity. The interviewee mentions both the need for protection and fairness in the justice system, especially in the context of women and girls, and the fairness of resources distribution in education."
+  },
+  {
+    "edgeType": "supports",
+    "from": "Provide mental health resources",
+    "to": "Justice system fairness",
+    "quotes": [
+      "[00:08:48] I feel mental health is the solution to every problem somebody has...",
+      "[00:10:34] Mental health should be offered to the victim as well as those who abuse people...",
+      "[00:14:43] Detroit public schools get the. Bottom of the resources. I feel like, and this have a lot to do with gerrymandering, prison gerrymandering..."
+    ],
+    "explanation": "The interviewee suggests providing mental health resources, both to the victims and abusers, could potentially decrease the incidents of abuse and thus foster more fairness in the justice system."
+  },
+  {
+    "edgeType": "requires",
+    "from": "Equality in education",
+    "to": "Support post-prison reintegration",
+    "quotes": [
+      "[00:20:42] Because if you have somebody that's locked up for decades coming home and you don't give them no pre-training with any kind of technology, you are setting them up for failure...",
+      "[00:15:04] In every prison, the largest amount of population is Wayne County. So if all of our residents is populating the, the prison system, when they do, they census, they count them in, like say for instance, Genesee County, or they count them in Ionia and that money and resources go to those schools..."
+    ],
+    "explanation": "The interviewee indicates the need for equal access to education resources to support post-prison reintegration, allowing those who have been incarcerated a better chance to integrate back into society post-release."
+  },
+  {
+    "edgeType": "requires",
+    "from": "Support post-prison reintegration",
+    "to": "Provide mental health resources",
+    "quotes": [
+      "[00:20:42] Because if you have somebody that's locked up for decades coming home and you don't give them no pre-training with any kind of technology, you are setting them up for failure...",
+      "[00:10:34] Mental health should be offered to the victim as well as those who abuse people..."
+    ],
+    "explanation": "The interviewee implies that mental health resources should be provided to those exiting prison to better support their reintegration into society."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "principle": "Justice system fairness",
+    "score": 0.7,
+    "quotes": [
+      "[00:00:40] It was like there was no protection for women and girls then...",
+      "...[00:14:43] Detroit public schools get the. Bottom of the resources. I feel like, and this have a lot to do with gerrymandering, prison gerrymandering, it's like when you lock up our residents from Detroit...",
+      "[00:02:40] Because I'm not the right ethnicity, you know what I'm saying? So it's like the same things can happen to the black and brown women for forever..."
+    ]
+  },
+
+  {
+    "principle": "Provide mental health resources",
+    "score": 0.95,
+    "quotes": [
+      "[00:08:48] I feel mental health is the solution to every problem somebody has...",
+      "[00:10:34] Mental health should be offered to the victim as well as those who abuse people...",
+      "[00:14:12] You have to get people to not go get to that point where they feel like they can't go past it..."
+    ]
+  },
+
+  {
+    "principle": "Support post-prison reintegration",
+    "score": 0.85,
+    "quotes": [
+      "[00:20:42] Because if you have somebody that's locked up for decades coming home and you don't give them no pre-training with any kind of technology, you are setting them up for failure...",
+      "[00:20:59] But if we set up something in the Department of Corrections, it can be a dummy thing where it's only connected to like one database..."
+    ]
+  },
+
+  {
+    "principle": "Equality in education",
+    "score": 0.8,
+    "quotes": [
+      "[00:16:54] I want her to have as much of a advantage as she can...",
+      "[00:16:20] And also they grade is higher. When you get the grading system, they're higher. So what can we do to make Detroit schools just as higher?",
+      "[00:17:38] I feel like because of the budget restraints, the teachers aren't allowed enough liberty to be to explore different ways of reaching their students..."
+    ]
+  },
+
+  {
+    "principle": "Support technological literacy",
+    "score": 0.8,
+    "quotes": [
+      "[00:18:33] Technology is not my best friend at all. I, it sucks...",
+      "[00:20:38] But if we set up something in the Department of Corrections, it can be a dummy thing where it's only connected to like one database..",
+      "[00:20:59] be able to have the technology at least six months in advance because you can't go over something one or two times and get it in..."
+    ]
+  }
+]

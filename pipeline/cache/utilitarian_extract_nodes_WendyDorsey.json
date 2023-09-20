@@ -1,0 +1,81 @@
+[
+  {"value": "Access to Technology", 
+  "score": 0.8, 
+  "quotes": ["So if you figuring out my age. Yeah, I am. , when I was coming up in high school, we did not have access to. The technology that was, that was starting to come about that was something that you really didn't see.", "A lot of my technology learning was pretty much and is pretty much on hand hands-on, I should say.", "They come home and they're expected to, to get just engulfed in, in what's happening in the world right now. And they don't have any, any information on, on what, what a lot of this is."]},
+  
+  {"value": "Technological Literacy", 
+  "score": 0.7, 
+  "quotes": ["People, a lot of people my age, maybe even older don't really know how to operate the new thing, the new technologies that are out there, my grandkids at four years old can operate, they can tell me stuff.", "A lot of people. A generation under me and, and beneath that had that technology given to them in school.", "So you have to learn how to operate all these new things."]},
+  
+  {"value": "Support for Returning Citizens", 
+  "score": 0.9, 
+  "quotes": ["Now what I've been put before lately we, with meeting the organization Silent Cry and dealing with people that are returning citizens and finding out that a lot of these individuals had left here, left home when they were like as young as 13 years old.", "So now he's out and he's doing the same thing, surviving ' cause there's no skills affordable to him.", "And you're not supposed to go back into your old neighborhood. . So where do you go? Where do you go? Who's gonna take you to find out that, you're returning citizen? . Who's gonna do that?"]},
+  
+  {"value": "Fair Judicial System", 
+  "score": 0.8, 
+  "quotes": ["It's a different scenario, unfortunately, like with my nephew he got life.", "But there was some flaws in his case that the family has an attorney that's been looking at it, but even with, with our family is everybody, , trying to chip in.", "Well the young man that I was talking about, he killed his mother's boyfriend because his, he was abusive and he was only 13, but a child tried as an adult, and I think that's what the, the problem was, is that these people were were tried as, as adults and they were children. And not good representation."]},
+  
+  {"value": "Prison Reform", 
+  "score": 0.7, 
+  "quotes": ["It, it hasn't, it hasn't changed. Even though they did pass that law. Let all these people out, they're still, they're still incarcerating young people. , and people of color and people with less economic standards.", "the whole world knows that America locks up more than 50% of their African American population. . And they know that America is built on the idea of slavery, free labor when they're in prison, free labor.", "And if you got a lot of the parents that are in there and their children are in the foster care system or on the welfare system, that money has to be paid back. They're gonna pay back that money on $2."]},
+  
+  {"value": "Racial Equality", 
+  "score": 0.7, 
+  "quotes": ["And even once you, if you do and you come out and you look different than me, you probably would get more access to resources that will help you along the way. , it's still lopsided.", "the whole world knows that America locks up more than 50% of their African American population.", "And they know that America is built on the idea of slavery, free labor when they're in prison, free labor."]},
+  
+  {"value": "Access to Housing", 
+  "score": 0.7, 
+  "quotes": ["And then coming out with a felony, where do you work and where do you get loans and where do you find housing and. No family. So what do you do?", "And you're not supposed to go back into your old neighborhood. . So where do you go? Where do you go? Who's gonna take you to find out that, you're returning citizen? . Who's gonna do that?"]},
+  
+  {"value": "Public Education", 
+  "score": 0.8, 
+  "quotes": ["no education. The, the schools, the schools in, in the poor neighborhoods, there are hardly any, , in the city of Detroit there's over 200 closed schools, 200.", "The schools, the school system, the public school systems aren't, aren't up to par like they should be.", "They should have a school in their district."]},
+  
+  {"value": "Mental Health Awareness", 
+  "score": 0.6, 
+  "quotes": ["Sometimes all it is is, is just a touch., a consoling touch that, that you're listening and you have compassion.", "It's just that people, people just need support and compassion."]},
+  
+  {"value": "Access to Legal Representation", 
+  "score": 0.7, 
+  "quotes": ["But there was some flaws in his case that the family has an attorney that's been looking at it, but even with, with our family is everybody, , trying to chip in.", "'cause he also happened to be an ex-offender who got out on a, on a technicality that happened in his case that he found. So he's using those skills. To help others that are, are locked up un unjustly or unfairly."]},
+  
+  {"value": "Fair Employment Opportunities", 
+  "score": 0.7, 
+  "quotes": ["And then coming out with a felony, where do you work and where do you get loans and where do you find housing and. No family. So what do you do?", "And you're not supposed to go back into your old neighborhood. . So where do you go? Where do you go? Who's gonna take you to find out that, you're returning citizen? . Who's gonna do that?"]},
+  
+  {"value": "Community Involvement", 
+  "score": 0.8, 
+  "quotes": ["So the, the general public, the public at large needs to be more informed. They need to be willing to listen to what is really going on in their neighborhoods and in their communities.", "They need to really, really get more involved in, in speak out at city council meetings community, community meetings.", "We need to. We really do need to take the blinders off and go do something. , when you sit back at home and you just peek out the window, 'cause you don't want to be involved and you don't wanna be a part of it, it doesn't solve anything."]},
+  
+  {"value": "Access to Affordable Groceries", 
+  "score": 0.6, 
+  "quotes": ["They should have. Grocery stores and things affordable to 'em that they can walk to."]},
+  
+  {"value": "Public Transportation", 
+  "score": 0.6, 
+  "quotes": ["They should have busing a, a, a bus system. We don't have, a lot of 'em don't have that anymore. They just don't have it."]},
+  
+  {"value": "Voting Rights", 
+  "score": 0.7, 
+  "quotes": ["And you do need to learn how to vote. It does work. It does work. Get involved. We have voices for a reason."]},
+  
+  {"value": "Credit Score Improvement", 
+  "score": 0.5, 
+  "quotes": ["And you're not supposed to go back into your old neighborhood. . So where do you go? Where do you go? Who's gonna take you to find out that, you're returning citizen? . Who's gonna do that?"]},
+  
+  {"value": "Homeownership Opportunities", 
+  "score": 0.5, 
+  "quotes": ["And you're not supposed to go back into your old neighborhood. . So where do you go? Where do you go? Who's gonna take you to find out that, you're returning citizen? . Who's gonna do that?"]},
+  
+  {"value": "Political Transparency", 
+  "score": 0.6, 
+  "quotes": ["It, it hasn't, it hasn't changed. Even though they did pass that law. Let all these people out, they're still, they're still incarcerating young people. , and people of color and people with less economic standards.", "the whole world knows that America locks up more than 50% of their African American population. . And they know that America is built on the idea of slavery, free labor when they're in prison, free labor."]},
+  
+  {"value": "Legislative Reform", 
+  "score": 0.6, 
+  "quotes": ["It, it hasn't, it hasn't changed. Even though they did pass that law. Let all these people out, they're still, they're still incarcerating young people. , and people of color and people with less economic standards.", "the whole world knows that America locks up more than 50% of their African American population. . And they know that America is built on the idea of slavery, free labor when they're in prison, free labor."]},
+  
+  {"value": "Support for Victims of Domestic Violence", 
+  "score": 0.7, 
+  "quotes": ["'cause of women, women get raped, they get beat, they get. Really put in bad situations to make them do things that they really don't wanna do, but it becomes a, a thing of survival for a lot of them.", "Or like one young, one young woman that she served 30 years in, she killed someone that was trying to rape her little sister, and I think she was, this, this lady was about 16.", "Well the young man that I was talking about, he killed his mother's boyfriend because his, he was abusive and he was only 13, but a child tried as an adult, and I think that's what the, the problem was, is that these people were were tried as, as adults and they were children. And not good representation."]}
+]

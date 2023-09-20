@@ -1,0 +1,38 @@
+[
+  {
+    "edgeType": "leads to",
+    "from": "Support post-prison reintegration",
+    "to": "Advocate for ex-prisoners",
+    "quotes": [
+      "One of the things that has been challenging for me when I came home was, first of all, a job that was challenging, but Because I have degrees in various areas, I created a job for myself.",
+      "We only have two people that work with us that has not been formally incarcerated."
+    ]
+  },
+  {
+    "edgeType": "supports",
+    "from": "Promote societal issue awareness",
+    "to": "Provide mental health resources",
+    "quotes": [
+      "don't even get to mental health? That's a whole nother issue because anybody that stays in a six by nine cell, a 15, 20, 30, 40, 50 years is suffering from post-traumatic prison disorder, not stress prison disorder.",
+      "When, when a man or a woman comes from prison, what do resources do he or she have that can address his or her mental health?"
+    ]
+  },
+  {
+    "edgeType": "requires",
+    "from": "Support post-prison reintegration",
+    "to": "Support technological literacy",
+    "quotes": [
+      "You don't know how to use a phone, you don't know how to use a computer.",
+      "They still using typewriters in prison and this is 2023. We going on 2024."
+    ]
+  },
+  {
+    "edgeType": "leads to",
+    "from": "Continuous self-improvement",
+    "to": "Encourage active citizenship",
+    "quotes": [
+      "So I spent a lot of my time in school educating myself first under my belief, and then getting the documentation that was necessary.",
+      "I told a guy this morning on the phone, don't just sit there and count the calendar, everything that they have to offer. Get it cause it's free, don't cost you nothing."
+    ]
+  }
+]

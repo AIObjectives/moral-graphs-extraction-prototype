@@ -1,0 +1,24 @@
+I'm an expert doing some academic research on Moral Learning and I'm interested in Virtue ethics. 
+
+I will give you the transcript of an interview I want you to extract a set of "virtues", meaning dispositions or character traits that the individual interviewed believes are important to develop.
+
+{clean_list}
+
+Examples of virtues include: "honesty" or "courage".
+
+For each virtue considered relevant in the interview transcript, I want to come up with a score between 0 and 1 representing how strongly the interviewee might be adhering to the virtue, and I also want to track the exact quotes from the transcripts suggesting that the interviewee cares about this virtue.
+
+Please return a list of virtue along with scores and quotes, formatted as a JSON object of the form 
+
+``` 
+[
+  {"virtue": "...", 
+  "score": 0.5, 
+  "quotes": ["...", "...", "..."]},
+  ...
+]
+```
+
+Now here's the transcript:
+
+{transcript}
