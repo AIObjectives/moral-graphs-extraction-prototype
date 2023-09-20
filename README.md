@@ -17,13 +17,21 @@ cd app
 npm start
 ```
 
-### Comparing two types of prompts 
+### Different types of ethics
 
-The following graphs are for the same interviewee, but using two different set of prompts respectively from `./promts/deontological_ethics` and `./prompts/utilitarian ethics`.
+The following graphs are for the same interviewee, but using two different set of prompts respectively from `./promts/deontological_ethics` and `./prompts/utilitarian_ethics`.
 
 <img width="995" alt="image" src="https://github.com/AIObjectives/moral-graphs-silent-cry/assets/3934784/df933bfe-aaa3-4da9-839b-a552b72f5ab3">
 
 <img width="965" alt="image" src="https://github.com/AIObjectives/moral-graphs-silent-cry/assets/3934784/dafcd51d-9937-459b-892e-11dc286a65a2">
+
+The following graphs are for the same interviewee, but using three different set of prompts respectively from `./promts/deontological_ethics`, `./prompts/utilitarian_ethics`, and `./prompts/virtue_ethics`.
+
+<img width="758" alt="image" src="https://github.com/AIObjectives/moral-graphs-silent-cry/assets/3934784/9af117e8-6bd4-460e-b76d-cdc10650e797">
+
+<img width="916" alt="image" src="https://github.com/AIObjectives/moral-graphs-silent-cry/assets/3934784/ba292eff-d3df-44c9-84e9-b4ab2875f4ba">
+
+<img width="913" alt="image" src="https://github.com/AIObjectives/moral-graphs-silent-cry/assets/3934784/56430d6e-6a47-4661-b54f-db56d0402695">
 
 ### Comparing two people
 
