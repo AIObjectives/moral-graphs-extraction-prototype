@@ -21,25 +21,26 @@ npm start
 
 The following graphs are for the same interviewee, but using two different set of prompts respectively from `./promts/deontological_ethics` and `./prompts/utilitarian_ethics`.
 
-<img width="995" alt="image" src="https://github.com/AIObjectives/moral-graphs-silent-cry/assets/3934784/df933bfe-aaa3-4da9-839b-a552b72f5ab3">
+<img width="1265" alt="image" src="https://github.com/AIObjectives/moral-graphs-extraction-prototype/assets/3934784/0c04584e-9da9-4ff4-8c94-c89c80dfe59f">
 
-<img width="965" alt="image" src="https://github.com/AIObjectives/moral-graphs-silent-cry/assets/3934784/dafcd51d-9937-459b-892e-11dc286a65a2">
+<img width="1297" alt="image" src="https://github.com/AIObjectives/moral-graphs-extraction-prototype/assets/3934784/7f52bdbc-e347-40ad-9a12-cf9937abb406">
 
 The following graphs are for the same interviewee, but using three different set of prompts respectively from `./promts/deontological_ethics`, `./prompts/utilitarian_ethics`, and `./prompts/virtue_ethics`.
 
-<img width="758" alt="image" src="https://github.com/AIObjectives/moral-graphs-silent-cry/assets/3934784/9af117e8-6bd4-460e-b76d-cdc10650e797">
 
-<img width="916" alt="image" src="https://github.com/AIObjectives/moral-graphs-silent-cry/assets/3934784/ba292eff-d3df-44c9-84e9-b4ab2875f4ba">
+<img width="1150" alt="image" src="https://github.com/AIObjectives/moral-graphs-extraction-prototype/assets/3934784/75a0c0d7-36a1-4650-9c2f-6d7662512a41">
 
-<img width="913" alt="image" src="https://github.com/AIObjectives/moral-graphs-silent-cry/assets/3934784/56430d6e-6a47-4661-b54f-db56d0402695">
+<img width="1249" alt="image" src="https://github.com/AIObjectives/moral-graphs-extraction-prototype/assets/3934784/d1592ba2-3a5d-4ee5-ac41-2678be87b58e">
+
+<img width="1283" alt="image" src="https://github.com/AIObjectives/moral-graphs-extraction-prototype/assets/3934784/dadd0d7d-c8f1-49a4-926b-7ae7ee7bf413">
 
 ### Comparing two people
 
 The following graphs are for two different participants. Note how they agree on several principles but not all. They put different weights on different things and they draw different edges.
 
-<img width="1021" alt="image" src="https://github.com/AIObjectives/moral-graphs-silent-cry/assets/3934784/e660ae13-e8cd-46d3-8b48-ea61753d9c10">
+<img width="1284" alt="image" src="https://github.com/AIObjectives/moral-graphs-extraction-prototype/assets/3934784/78082987-0646-4f05-ac0a-7eff334365d0">
 
-<img width="963" alt="image" src="https://github.com/AIObjectives/moral-graphs-silent-cry/assets/3934784/5c51aaaf-7bec-4265-b1fb-3fa69a3b8f58">
+<img width="1303" alt="image" src="https://github.com/AIObjectives/moral-graphs-extraction-prototype/assets/3934784/2a2a6658-23af-4606-87ae-4c1d5c935512">
 
 
 ### How to re-run the pipeline (if you really want to)
