@@ -2,7 +2,7 @@
 
 ### Overview
 
-- the input data consist of transcripts from Silent Cry (Heal Michigan)
+- the input data consist of transcripts from Heal Michigan (see [blog post](https://ai.objectives.institute/blog/using-ai-to-give-people-a-voice-a-case-study-in-michigan))
 - we're using GPT-4 to extract moral graphs from the transcripts
 - we're trying 3 different types of ethics (deontological, utilitarian, and virtues)
 - the colors of the dots correspond to different values
